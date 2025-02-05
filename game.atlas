@@ -1,0 +1,329 @@
+
+game.png
+size: 1320, 1320
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/HexaMirabilis/Hexagon
+rotate: false
+xy: 0, 1079
+size: 277, 240
+orig: 277, 240
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Highlight
+rotate: false
+xy: 277, 1107
+size: 284, 212
+orig: 284, 212
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Crosshair
+rotate: false
+xy: 561, 1219
+size: 116, 100
+orig: 116, 100
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/TopBorder
+rotate: false
+xy: 277, 1154
+size: 64, 56
+orig: 64, 56
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Railroad
+rotate: false
+xy: 561, 1186
+size: 60, 32
+orig: 60, 32
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Road
+rotate: false
+xy: 623, 1186
+size: 60, 32
+orig: 60, 32
+offset: 0, 0
+index: -1
+//First Row
+TileSets/HexaMirabilis/Tiles/Grassland
+rotate: false
+xy: 1, 0
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Grassland2
+rotate: false
+xy: 67, 0
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Grassland3
+rotate: false
+xy: 133, 0
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Grassland4
+rotate: false
+xy: 199, 0
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Grassland5
+rotate: false
+xy: 265, 0
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Grassland6
+rotate: false
+xy: 331, 0
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/GrasslandHill
+rotate: false
+xy: 397, 0
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/GrasslandHill2
+rotate: false
+xy: 463, 0
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/GrasslandHill3
+rotate: false
+xy: 529, 0
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/GrasslandHighland
+rotate: false
+xy: 595, 0
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/GrasslandHighland2
+rotate: false
+xy: 661, 0
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/GrasslandHighland3
+rotate: false
+xy: 727, 0
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/GrasslandRareFeature1
+rotate: false
+xy: 793, 0
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/GrasslandRareFeature2
+rotate: false
+xy: 859, 0
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/GrasslandRareFeature3
+rotate: false
+xy: 925, 0
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/GrasslandWonderBase
+rotate: false
+xy: 991, 0
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/GrasslandWonderBase2
+rotate: false
+xy: 1057, 0
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/GrasslandWonderBase3
+rotate: false
+xy: 1123, 0
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/GrasslandPlaceHolder
+rotate: false
+xy: 1189, 0
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/GrasslandPlaceHolder2
+rotate: false
+xy: 1255, 0
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Desert
+rotate: false
+xy: 1, 132
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Desert2
+rotate: false
+xy: 67, 132
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Desert3
+rotate: false
+xy: 133, 132
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Desert4
+rotate: false
+xy: 199, 132
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Desert5
+rotate: false
+xy: 265, 132
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Desert6
+rotate: false
+xy: 331, 132
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertHill
+rotate: false
+xy: 397, 132
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertHill2
+rotate: false
+xy: 463, 132
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertHill3
+rotate: false
+xy: 529, 132
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertHighland
+rotate: false
+xy: 595, 132
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertHighland2
+rotate: false
+xy: 661, 132
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertHighland3
+rotate: false
+xy: 727, 132
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertRareFeature1
+rotate: false
+xy: 793, 132
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertRareFeature2
+rotate: false
+xy: 859, 132
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertRareFeature3
+rotate: false
+xy: 925, 132
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertWonderBase
+rotate: false
+xy: 991, 132
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertWonderBase2
+rotate: false
+xy: 1057, 132
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertWonderBase3
+rotate: false
+xy: 1123, 132
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertPlaceHolder
+rotate: false
+xy: 1189, 132
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertPlaceHolder2
+rotate: false
+xy: 1255, 132
+size: 64, 66
+orig: 64, 66
+offset: 0, 0
+index: -1

@@ -1,6 +1,6 @@
 {
     "useColorAsBaseTerrain": "false",
-    "fallbackTileSet": "Civ6",
+    "fallbackTileSet": "FantasyHex",
     "ruleVariants": {
       //hills and highlands
       "Grassland+Hill": ["GrasslandHill"],
@@ -268,4 +268,5 @@
 	"Coast+Oil well": ["Coast","Oil WellC"],
 	"Coast+Oil+Oil well": ["Coast","Oil WellC"],
 	}
+
 }

@@ -1,4 +1,4 @@
-# HexaMirabilis-TileSet
+# Hexa-Mirabilis-TileSet
  HexaMirabilis is a Civ Six-fied Tileset for Unciv.
  
  It is Based on HexaRealm tiles (Shape and Size) and Largely inspired by Civ 6's Mods and Features, such as TerraMirabilis and the placeable Wonders present in the game.

@@ -1031,3 +1031,228 @@ size: 64, 64
 orig: 64, 64
 offset: 0, 0
 index: -1
+//Fourth Row
+TileSets/HexaMirabilis/Tiles/Plains
+rotate: false
+xy: 0, 192
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Plains2
+rotate: false
+xy: 64, 192
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Plains3
+rotate: false
+xy: 128, 192
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Plains4
+rotate: false
+xy: 192, 192
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Plains5
+rotate: false
+xy: 256, 192
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Plains6
+rotate: false
+xy: 320, 192
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Plains7
+rotate: false
+xy: 384, 192
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Plains8
+rotate: false
+xy: 448, 192
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PlainsHill
+rotate: false
+xy: 512, 204
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PlainsHill2
+rotate: false
+xy: 576, 204
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PlainsHill3
+rotate: false
+xy: 640, 204
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PlainsHill4
+rotate: false
+xy: 704, 204
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature21
+rotate: false
+xy: 768, 204
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature22
+rotate: false
+xy: 832, 204
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature23
+rotate: false
+xy: 896, 204
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature24
+rotate: false
+xy: 960, 204
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PlainsHighland
+rotate: false
+xy: 768, 216
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PlainsHighland2
+rotate: false
+xy: 832, 216
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PlainsHighland3
+rotate: false
+xy: 896, 216
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PlainsHighland4
+rotate: false
+xy: 960, 216
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature25
+rotate: false
+xy: 768, 216
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature26
+rotate: false
+xy: 832, 216
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature27
+rotate: false
+xy: 896, 216
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature28
+rotate: false
+xy: 960, 216
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PlainsRareFeature1
+rotate: false
+xy: 1536, 192
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PlainsRareFeature2
+rotate: false
+xy: 1600, 192
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PlainsRareFeature3
+rotate: false
+xy: 1664, 192
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PlainsWonderBase
+rotate: false
+xy: 1728, 192
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PlainsWonderBase2
+rotate: false
+xy: 1792, 192
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PlainsWonderBase3
+rotate: false
+xy: 1856, 192
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature29
+rotate: false
+xy: 1920, 192
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature30
+rotate: false
+xy: 1984, 192
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1

@@ -4,36 +4,346 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+//Essentials
 TileSets/HexaMirabilis/Hexagon
 rotate: false
-xy: 0, 1079
-size: 277, 240
-orig: 277, 240
+xy: 0, 1824
+size: 256, 224
+orig: 256, 224
 offset: 0, 0
 index: -1
 TileSets/HexaMirabilis/Highlight
 rotate: false
-xy: 277, 1107
-size: 284, 212
-orig: 284, 212
+xy: 256, 1852
+size: 196, 196
+orig: 196, 196
 offset: 0, 0
 index: -1
 TileSets/HexaMirabilis/Crosshair
 rotate: false
-xy: 561, 1219
-size: 116, 100
-orig: 116, 100
+xy: 452, 1952
+size: 96, 96
+orig: 96, 96
 offset: 0, 0
 index: -1
 TileSets/HexaMirabilis/TopBorder
 rotate: false
-xy: 277, 1154
-size: 64, 56
-orig: 64, 56
+xy: 256, 1792
+size: 64, 60
+orig: 64, 60
 offset: 0, 0
 index: -1
 TileSets/HexaMirabilis/Railroad
 rotate: false
+xy: 0, 1792
+size: 64, 32
+orig: 64, 32
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Road
+rotate: false
+xy: 64, 1792
+size: 64, 32
+orig: 64, 32
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/GravelRoad
+rotate: false
+xy: 128, 1792
+size: 64, 32
+orig: 64, 32
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/StoneRoad
+rotate: false
+xy: 192, 1792
+size: 64, 32
+orig: 64, 32
+offset: 0, 0
+index: -1
+//First Row
+TileSets/HexaMirabilis/Tiles/Caatinga
+rotate: false
+xy: 0, 0
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Caatinga2
+rotate: false
+xy: 64, 0
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Caatinga3
+rotate: false
+xy: 128, 0
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Caatinga4
+rotate: false
+xy: 192, 0
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Pampa
+rotate: false
+xy: 256, 0
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Pampa2
+rotate: false
+xy: 320, 0
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Pampa3
+rotate: false
+xy: 384, 0
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Pampa4
+rotate: false
+xy: 448, 0
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+//Second Row
+TileSets/HexaMirabilis/Tiles/Desert
+rotate: false
+xy: 0, 64
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Desert2
+rotate: false
+xy: 64, 64
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Desert3
+rotate: false
+xy: 128, 64
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Desert4
+rotate: false
+xy: 192, 64
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Desert5
+rotate: false
+xy: 256, 64
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Desert6
+rotate: false
+xy: 320, 64
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Desert7
+rotate: false
+xy: 384, 64
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Desert8
+rotate: false
+xy: 448, 64
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertHill
+rotate: false
+xy: 512, 68
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertHill2
+rotate: false
+xy: 576, 68
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertHill3
+rotate: false
+xy: 640, 68
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertHill4
+rotate: false
+xy: 704, 68
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature01
+rotate: false
+xy: 768, 68
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature02
+rotate: false
+xy: 832, 68
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature03
+rotate: false
+xy: 896, 68
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature04
+rotate: false
+xy: 960, 68
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertHighland
+rotate: false
+xy: 768, 72
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertHighland2
+rotate: false
+xy: 832, 72
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertHighland3
+rotate: false
+xy: 896, 72
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertHighland4
+rotate: false
+xy: 960, 72
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature05
+rotate: false
+xy: 768, 72
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature06
+rotate: false
+xy: 832, 72
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature07
+rotate: false
+xy: 896, 72
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature08
+rotate: false
+xy: 960, 72
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertRareFeature1
+rotate: false
+xy: 1536, 64
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertRareFeature2
+rotate: false
+xy: 1600, 64
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertRareFeature3
+rotate: false
+xy: 1664, 64
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertWonderBase
+rotate: false
+xy: 1728, 64
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertWonderBase2
+rotate: false
+xy: 1792, 64
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertWonderBase3
+rotate: false
+xy: 1856, 64
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature09
+rotate: false
+xy: 1920, 64
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature10
+rotate: false
+xy: 1984, 64
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+//Third Row
 xy: 561, 1186
 size: 60, 32
 orig: 60, 32

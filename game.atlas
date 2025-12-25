@@ -118,6 +118,174 @@ size: 64, 64
 orig: 64, 64
 offset: 0, 0
 index: -1
+TileSets/HexaMirabilis/Tiles/CaatingaHill
+rotate: false
+xy: 512, 0
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/CaatingaHill2
+rotate: false
+xy: 576, 0
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/CaatingaHill3
+rotate: false
+xy: 640, 0
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/CaatingaHill4
+rotate: false
+xy: 704, 0
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PampaHill
+rotate: false
+xy: 768, 0
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PampaHill2
+rotate: false
+xy: 832, 0
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PampaHill3
+rotate: false
+xy: 896, 0
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PampaHill4
+rotate: false
+xy: 960, 0
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/CaatingaHighland
+rotate: false
+xy: 768, 0
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/CaatingaHighland2
+rotate: false
+xy: 832, 0
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/CaatingaHighland3
+rotate: false
+xy: 896, 0
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/CaatingaHighland4
+rotate: false
+xy: 960, 0
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PampaHighland
+rotate: false
+xy: 768, 0
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PampaHighland2
+rotate: false
+xy: 832, 0
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PampaHighland3
+rotate: false
+xy: 896, 0
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PampaHighland4
+rotate: false
+xy: 960, 0
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/CaatingaRareFeature1
+rotate: false
+xy: 1536, 0
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/CaatingaRareFeature2
+rotate: false
+xy: 1600, 0
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/CaatingaRareFeature3
+rotate: false
+xy: 1664, 0
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/CaatingaWonderBase
+rotate: false
+xy: 1728, 0
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PampaRareFeature1
+rotate: false
+xy: 1792, 0
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PampaRareFeature2
+rotate: false
+xy: 1856, 0
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PampaRareFeature3
+rotate: false
+xy: 1920, 0
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PampaWonderBase
+rotate: false
+xy: 1984, 0
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
 //Second Row
 TileSets/HexaMirabilis/Tiles/Desert
 rotate: false

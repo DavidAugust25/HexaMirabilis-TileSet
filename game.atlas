@@ -47,283 +47,285 @@ orig: 60, 32
 offset: 0, 0
 index: -1
 //First Row
-TileSets/HexaMirabilis/Tiles/Grassland
+TileSets/HexaMirabilis/Tiles/Caatinga
 rotate: false
-xy: 1, 0
-size: 64, 66
-orig: 64, 66
+xy: 0, 0
+size: 64, 64
+orig: 64, 64
 offset: 0, 0
 index: -1
-TileSets/HexaMirabilis/Tiles/Grassland2
+TileSets/HexaMirabilis/Tiles/Caatinga2
 rotate: false
-xy: 67, 0
-size: 64, 66
-orig: 64, 66
+xy: 64, 0
+size: 64, 64
+orig: 64, 64
 offset: 0, 0
 index: -1
-TileSets/HexaMirabilis/Tiles/Grassland3
+TileSets/HexaMirabilis/Tiles/Caatinga3
 rotate: false
-xy: 133, 0
-size: 64, 66
-orig: 64, 66
+xy: 128, 0
+size: 64, 64
+orig: 64, 64
 offset: 0, 0
 index: -1
-TileSets/HexaMirabilis/Tiles/Grassland4
+TileSets/HexaMirabilis/Tiles/Caatinga4
 rotate: false
-xy: 199, 0
-size: 64, 66
-orig: 64, 66
+xy: 192, 0
+size: 64, 64
+orig: 64, 64
 offset: 0, 0
 index: -1
-TileSets/HexaMirabilis/Tiles/Grassland5
+TileSets/HexaMirabilis/Tiles/Pampa
 rotate: false
-xy: 265, 0
-size: 64, 66
-orig: 64, 66
+xy: 256, 0
+size: 64, 64
+orig: 64, 64
 offset: 0, 0
 index: -1
-TileSets/HexaMirabilis/Tiles/Grassland6
+TileSets/HexaMirabilis/Tiles/Pampa2
 rotate: false
-xy: 331, 0
-size: 64, 66
-orig: 64, 66
+xy: 320, 0
+size: 64, 64
+orig: 64, 64
 offset: 0, 0
 index: -1
-TileSets/HexaMirabilis/Tiles/GrasslandHill
+TileSets/HexaMirabilis/Tiles/Pampa3
 rotate: false
-xy: 397, 0
-size: 64, 66
-orig: 64, 66
+xy: 384, 0
+size: 64, 64
+orig: 64, 64
 offset: 0, 0
 index: -1
-TileSets/HexaMirabilis/Tiles/GrasslandHill2
+TileSets/HexaMirabilis/Tiles/Pampa4
 rotate: false
-xy: 463, 0
-size: 64, 66
-orig: 64, 66
+xy: 448, 0
+size: 64, 64
+orig: 64, 64
 offset: 0, 0
 index: -1
-TileSets/HexaMirabilis/Tiles/GrasslandHill3
-rotate: false
-xy: 529, 0
-size: 64, 66
-orig: 64, 66
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/GrasslandHighland
-rotate: false
-xy: 595, 0
-size: 64, 66
-orig: 64, 66
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/GrasslandHighland2
-rotate: false
-xy: 661, 0
-size: 64, 66
-orig: 64, 66
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/GrasslandHighland3
-rotate: false
-xy: 727, 0
-size: 64, 66
-orig: 64, 66
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/GrasslandRareFeature1
-rotate: false
-xy: 793, 0
-size: 64, 66
-orig: 64, 66
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/GrasslandRareFeature2
-rotate: false
-xy: 859, 0
-size: 64, 66
-orig: 64, 66
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/GrasslandRareFeature3
-rotate: false
-xy: 925, 0
-size: 64, 66
-orig: 64, 66
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/GrasslandWonderBase
-rotate: false
-xy: 991, 0
-size: 64, 66
-orig: 64, 66
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/GrasslandWonderBase2
-rotate: false
-xy: 1057, 0
-size: 64, 66
-orig: 64, 66
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/GrasslandWonderBase3
-rotate: false
-xy: 1123, 0
-size: 64, 66
-orig: 64, 66
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/GrasslandPlaceHolder
-rotate: false
-xy: 1189, 0
-size: 64, 66
-orig: 64, 66
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/GrasslandPlaceHolder2
-rotate: false
-xy: 1255, 0
-size: 64, 66
-orig: 64, 66
-offset: 0, 0
-index: -1
+//Second Row
 TileSets/HexaMirabilis/Tiles/Desert
 rotate: false
-xy: 1, 132
-size: 64, 66
-orig: 64, 66
+xy: 0, 64
+size: 64, 64
+orig: 64, 64
 offset: 0, 0
 index: -1
 TileSets/HexaMirabilis/Tiles/Desert2
 rotate: false
-xy: 67, 132
-size: 64, 66
-orig: 64, 66
+xy: 64, 64
+size: 64, 64
+orig: 64, 64
 offset: 0, 0
 index: -1
 TileSets/HexaMirabilis/Tiles/Desert3
 rotate: false
-xy: 133, 132
-size: 64, 66
-orig: 64, 66
+xy: 128, 64
+size: 64, 64
+orig: 64, 64
 offset: 0, 0
 index: -1
 TileSets/HexaMirabilis/Tiles/Desert4
 rotate: false
-xy: 199, 132
-size: 64, 66
-orig: 64, 66
+xy: 192, 64
+size: 64, 64
+orig: 64, 64
 offset: 0, 0
 index: -1
 TileSets/HexaMirabilis/Tiles/Desert5
 rotate: false
-xy: 265, 132
-size: 64, 66
-orig: 64, 66
+xy: 256, 64
+size: 64, 64
+orig: 64, 64
 offset: 0, 0
 index: -1
 TileSets/HexaMirabilis/Tiles/Desert6
 rotate: false
-xy: 331, 132
-size: 64, 66
-orig: 64, 66
+xy: 320, 64
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Desert7
+rotate: false
+xy: 384, 64
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Desert8
+rotate: false
+xy: 448, 64
+size: 64, 64
+orig: 64, 64
 offset: 0, 0
 index: -1
 TileSets/HexaMirabilis/Tiles/DesertHill
 rotate: false
-xy: 397, 132
-size: 64, 66
-orig: 64, 66
+xy: 512, 68
+size: 64, 68
+orig: 64, 68
 offset: 0, 0
 index: -1
 TileSets/HexaMirabilis/Tiles/DesertHill2
 rotate: false
-xy: 463, 132
-size: 64, 66
-orig: 64, 66
+xy: 576, 68
+size: 64, 68
+orig: 64, 68
 offset: 0, 0
 index: -1
 TileSets/HexaMirabilis/Tiles/DesertHill3
 rotate: false
-xy: 529, 132
-size: 64, 66
-orig: 64, 66
+xy: 640, 68
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertHill4
+rotate: false
+xy: 704, 68
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertHill5
+rotate: false
+xy: 768, 68
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertHill6
+rotate: false
+xy: 832, 68
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertHill7
+rotate: false
+xy: 896, 68
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertHill8
+rotate: false
+xy: 960, 68
+size: 64, 68
+orig: 64, 68
 offset: 0, 0
 index: -1
 TileSets/HexaMirabilis/Tiles/DesertHighland
 rotate: false
-xy: 595, 132
-size: 64, 66
-orig: 64, 66
+xy: 768, 72
+size: 64, 72
+orig: 64, 72
 offset: 0, 0
 index: -1
 TileSets/HexaMirabilis/Tiles/DesertHighland2
 rotate: false
-xy: 661, 132
-size: 64, 66
-orig: 64, 66
+xy: 832, 72
+size: 64, 72
+orig: 64, 72
 offset: 0, 0
 index: -1
 TileSets/HexaMirabilis/Tiles/DesertHighland3
 rotate: false
-xy: 727, 132
-size: 64, 66
-orig: 64, 66
+xy: 896, 72
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/DesertHighland4
+rotate: false
+xy: 960, 72
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature01
+rotate: false
+xy: 768, 72
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature02
+rotate: false
+xy: 832, 72
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature03
+rotate: false
+xy: 896, 72
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature04
+rotate: false
+xy: 960, 72
+size: 64, 72
+orig: 64, 72
 offset: 0, 0
 index: -1
 TileSets/HexaMirabilis/Tiles/DesertRareFeature1
 rotate: false
-xy: 793, 132
-size: 64, 66
-orig: 64, 66
+xy: 1536, 64
+size: 64, 64
+orig: 64, 64
 offset: 0, 0
 index: -1
 TileSets/HexaMirabilis/Tiles/DesertRareFeature2
 rotate: false
-xy: 859, 132
-size: 64, 66
-orig: 64, 66
+xy: 1600, 64
+size: 64, 64
+orig: 64, 64
 offset: 0, 0
 index: -1
 TileSets/HexaMirabilis/Tiles/DesertRareFeature3
 rotate: false
-xy: 925, 132
-size: 64, 66
-orig: 64, 66
+xy: 1664, 64
+size: 64, 64
+orig: 64, 64
 offset: 0, 0
 index: -1
 TileSets/HexaMirabilis/Tiles/DesertWonderBase
 rotate: false
-xy: 991, 132
-size: 64, 66
-orig: 64, 66
+xy: 1728, 64
+size: 64, 64
+orig: 64, 64
 offset: 0, 0
 index: -1
 TileSets/HexaMirabilis/Tiles/DesertWonderBase2
 rotate: false
-xy: 1057, 132
-size: 64, 66
-orig: 64, 66
+xy: 1792, 64
+size: 64, 64
+orig: 64, 64
 offset: 0, 0
 index: -1
 TileSets/HexaMirabilis/Tiles/DesertWonderBase3
 rotate: false
-xy: 1123, 132
-size: 64, 66
-orig: 64, 66
+xy: 1856, 64
+size: 64, 64
+orig: 64, 64
 offset: 0, 0
 index: -1
-TileSets/HexaMirabilis/Tiles/DesertPlaceHolder
+TileSets/HexaMirabilis/Tiles/UnusedFeature05
 rotate: false
-xy: 1189, 132
-size: 64, 66
-orig: 64, 66
+xy: 1920, 64
+size: 64, 64
+orig: 64, 64
 offset: 0, 0
 index: -1
-TileSets/HexaMirabilis/Tiles/DesertPlaceHolder2
+TileSets/HexaMirabilis/Tiles/UnusedFeature06
 rotate: false
-xy: 1255, 132
-size: 64, 66
-orig: 64, 66
+xy: 1984, 64
+size: 64, 64
+orig: 64, 64
 offset: 0, 0
 index: -1
+//Third Row

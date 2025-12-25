@@ -512,301 +512,6 @@ orig: 64, 64
 offset: 0, 0
 index: -1
 //Third Row
-xy: 561, 1186
-size: 60, 32
-orig: 60, 32
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Road
-rotate: false
-xy: 623, 1186
-size: 60, 32
-orig: 60, 32
-offset: 0, 0
-index: -1
-//First Row
-TileSets/HexaMirabilis/Tiles/Caatinga
-rotate: false
-xy: 0, 0
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/Caatinga2
-rotate: false
-xy: 64, 0
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/Caatinga3
-rotate: false
-xy: 128, 0
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/Caatinga4
-rotate: false
-xy: 192, 0
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/Pampa
-rotate: false
-xy: 256, 0
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/Pampa2
-rotate: false
-xy: 320, 0
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/Pampa3
-rotate: false
-xy: 384, 0
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/Pampa4
-rotate: false
-xy: 448, 0
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-//Second Row
-TileSets/HexaMirabilis/Tiles/Desert
-rotate: false
-xy: 0, 64
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/Desert2
-rotate: false
-xy: 64, 64
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/Desert3
-rotate: false
-xy: 128, 64
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/Desert4
-rotate: false
-xy: 192, 64
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/Desert5
-rotate: false
-xy: 256, 64
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/Desert6
-rotate: false
-xy: 320, 64
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/Desert7
-rotate: false
-xy: 384, 64
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/Desert8
-rotate: false
-xy: 448, 64
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/DesertHill
-rotate: false
-xy: 512, 68
-size: 64, 68
-orig: 64, 68
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/DesertHill2
-rotate: false
-xy: 576, 68
-size: 64, 68
-orig: 64, 68
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/DesertHill3
-rotate: false
-xy: 640, 68
-size: 64, 68
-orig: 64, 68
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/DesertHill4
-rotate: false
-xy: 704, 68
-size: 64, 68
-orig: 64, 68
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/DesertHill5
-rotate: false
-xy: 768, 68
-size: 64, 68
-orig: 64, 68
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/DesertHill6
-rotate: false
-xy: 832, 68
-size: 64, 68
-orig: 64, 68
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/DesertHill7
-rotate: false
-xy: 896, 68
-size: 64, 68
-orig: 64, 68
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/DesertHill8
-rotate: false
-xy: 960, 68
-size: 64, 68
-orig: 64, 68
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/DesertHighland
-rotate: false
-xy: 768, 72
-size: 64, 72
-orig: 64, 72
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/DesertHighland2
-rotate: false
-xy: 832, 72
-size: 64, 72
-orig: 64, 72
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/DesertHighland3
-rotate: false
-xy: 896, 72
-size: 64, 72
-orig: 64, 72
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/DesertHighland4
-rotate: false
-xy: 960, 72
-size: 64, 72
-orig: 64, 72
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/UnusedFeature01
-rotate: false
-xy: 768, 72
-size: 64, 72
-orig: 64, 72
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/UnusedFeature02
-rotate: false
-xy: 832, 72
-size: 64, 72
-orig: 64, 72
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/UnusedFeature03
-rotate: false
-xy: 896, 72
-size: 64, 72
-orig: 64, 72
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/UnusedFeature04
-rotate: false
-xy: 960, 72
-size: 64, 72
-orig: 64, 72
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/DesertRareFeature1
-rotate: false
-xy: 1536, 64
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/DesertRareFeature2
-rotate: false
-xy: 1600, 64
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/DesertRareFeature3
-rotate: false
-xy: 1664, 64
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/DesertWonderBase
-rotate: false
-xy: 1728, 64
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/DesertWonderBase2
-rotate: false
-xy: 1792, 64
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/DesertWonderBase3
-rotate: false
-xy: 1856, 64
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/UnusedFeature05
-rotate: false
-xy: 1920, 64
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-TileSets/HexaMirabilis/Tiles/UnusedFeature06
-rotate: false
-xy: 1984, 64
-size: 64, 64
-orig: 64, 64
-offset: 0, 0
-index: -1
-//Third Row
 TileSets/HexaMirabilis/Tiles/Grassland
 rotate: false
 xy: 0, 128
@@ -1252,6 +957,906 @@ index: -1
 TileSets/HexaMirabilis/Tiles/UnusedFeature30
 rotate: false
 xy: 1984, 192
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+//Fifth Row
+TileSets/HexaMirabilis/Tiles/Savannah
+rotate: false
+xy: 0, 256
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Savannah2
+rotate: false
+xy: 64, 256
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Savannah3
+rotate: false
+xy: 128, 256
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Savannah4
+rotate: false
+xy: 192, 256
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Fynbos
+rotate: false
+xy: 256, 256
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Fynbos2
+rotate: false
+xy: 320, 256
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Fynbos3
+rotate: false
+xy: 384, 256
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Fynbos4
+rotate: false
+xy: 448, 256
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SavannahHill
+rotate: false
+xy: 512, 272
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SavannahHill2
+rotate: false
+xy: 576, 272
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SavannahHill3
+rotate: false
+xy: 640, 272
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SavannahHill4
+rotate: false
+xy: 704, 272
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/FynbosHill
+rotate: false
+xy: 768, 272
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/FynbosHill2
+rotate: false
+xy: 832, 272
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/FynbosHill3
+rotate: false
+xy: 896, 272
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/FynbosHill4
+rotate: false
+xy: 960, 272
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SavannahHighland
+rotate: false
+xy: 768, 288
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SavannahHighland2
+rotate: false
+xy: 832, 288
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SavannahHighland3
+rotate: false
+xy: 896, 288
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SavannahHighland4
+rotate: false
+xy: 960, 288
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/FynbosHighland
+rotate: false
+xy: 768, 288
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/FynbosHighland2
+rotate: false
+xy: 832, 288
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/FynbosHighland3
+rotate: false
+xy: 896, 288
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/FynbosHighland4
+rotate: false
+xy: 960, 288
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SavannahRareFeature1
+rotate: false
+xy: 1536, 256
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SavannahRareFeature2
+rotate: false
+xy: 1600, 256
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SavannahRareFeature3
+rotate: false
+xy: 1664, 256
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SavannahWonderBase
+rotate: false
+xy: 1728, 256
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/FynbosRareFeature1
+rotate: false
+xy: 1792, 256
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/FynbosRareFeature2
+rotate: false
+xy: 1856, 256
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/FynbosRareFeature3
+rotate: false
+xy: 1920, 256
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/FynbosWonderBase
+rotate: false
+xy: 1984, 256
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+//Sixth Row
+TileSets/HexaMirabilis/Tiles/Snow
+rotate: false
+xy: 0, 320
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Snow2
+rotate: false
+xy: 64, 320
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Snow3
+rotate: false
+xy: 128, 320
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Snow4
+rotate: false
+xy: 192, 320
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Snow5
+rotate: false
+xy: 256, 320
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Snow6
+rotate: false
+xy: 320, 320
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Snow7
+rotate: false
+xy: 384, 320
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Snow8
+rotate: false
+xy: 448, 320
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SnowHill
+rotate: false
+xy: 512, 340
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SnowHill2
+rotate: false
+xy: 576, 340
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SnowHill3
+rotate: false
+xy: 640, 340
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SnowHill4
+rotate: false
+xy: 704, 340
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature31
+rotate: false
+xy: 768, 340
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature32
+rotate: false
+xy: 832, 340
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature33
+rotate: false
+xy: 896, 340
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature34
+rotate: false
+xy: 960, 340
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SnowHighland
+rotate: false
+xy: 768, 360
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SnowHighland2
+rotate: false
+xy: 832, 360
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SnowHighland3
+rotate: false
+xy: 896, 360
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SnowHighland4
+rotate: false
+xy: 960, 360
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature35
+rotate: false
+xy: 768, 360
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature36
+rotate: false
+xy: 832, 360
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature37
+rotate: false
+xy: 896, 360
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature38
+rotate: false
+xy: 960, 360
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SnowRareFeature1
+rotate: false
+xy: 1536, 320
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SnowRareFeature2
+rotate: false
+xy: 1600, 320
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SnowRareFeature3
+rotate: false
+xy: 1664, 320
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SnowWonderBase
+rotate: false
+xy: 1728, 320
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SnowWonderBase2
+rotate: false
+xy: 1792, 320
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/SnowWonderBase3
+rotate: false
+xy: 1856, 320
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature39
+rotate: false
+xy: 1920, 320
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature40
+rotate: false
+xy: 1984, 320
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+//Seventh Row
+TileSets/HexaMirabilis/Tiles/Tundra
+rotate: false
+xy: 0, 384
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Tundra2
+rotate: false
+xy: 64, 384
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Tundra3
+rotate: false
+xy: 128, 384
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Tundra4
+rotate: false
+xy: 192, 384
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Tundra5
+rotate: false
+xy: 256, 384
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Tundra6
+rotate: false
+xy: 320, 384
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Tundra7
+rotate: false
+xy: 384, 384
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Tundra8
+rotate: false
+xy: 448, 384
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/TundraHill
+rotate: false
+xy: 512, 408
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/TundraHill2
+rotate: false
+xy: 576, 408
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/TundraHill3
+rotate: false
+xy: 640, 408
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/TundraHill4
+rotate: false
+xy: 704, 408
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature41
+rotate: false
+xy: 768, 408
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature42
+rotate: false
+xy: 832, 408
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature43
+rotate: false
+xy: 896, 408
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature44
+rotate: false
+xy: 960, 408
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/TundraHighland
+rotate: false
+xy: 768, 432
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/TundraHighland2
+rotate: false
+xy: 832, 432
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/TundraHighland3
+rotate: false
+xy: 896, 432
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/TundraHighland4
+rotate: false
+xy: 960, 432
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature45
+rotate: false
+xy: 768, 432
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature46
+rotate: false
+xy: 832, 432
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature47
+rotate: false
+xy: 896, 432
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature48
+rotate: false
+xy: 960, 432
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/TundraRareFeature1
+rotate: false
+xy: 1536, 384
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/TundraRareFeature2
+rotate: false
+xy: 1600, 384
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/TundraRareFeature3
+rotate: false
+xy: 1664, 384
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/TundraWonderBase
+rotate: false
+xy: 1728, 384
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/TundraWonderBase2
+rotate: false
+xy: 1792, 384
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/TundraWonderBase3
+rotate: false
+xy: 1856, 384
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature49
+rotate: false
+xy: 1920, 384
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/UnusedFeature50
+rotate: false
+xy: 1984, 384
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+//Eightieth Row AKA Filler Row
+TileSets/HexaMirabilis/Tiles/Coast
+rotate: false
+xy: 0, 448
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Coast2
+rotate: false
+xy: 64, 448
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Coast3
+rotate: false
+xy: 128, 448
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Coast4
+rotate: false
+xy: 192, 448
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Ocean
+rotate: false
+xy: 256, 448
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Ocean2
+rotate: false
+xy: 320, 448
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Ocean3
+rotate: false
+xy: 384, 448
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Ocean4
+rotate: false
+xy: 448, 448
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Mountains
+rotate: false
+xy: 512, 476
+size: 64, 100
+orig: 64, 100
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Mountains2
+rotate: false
+xy: 576, 476
+size: 64, 100
+orig: 64, 100
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Mountains3
+rotate: false
+xy: 640, 476
+size: 64, 100
+orig: 64, 100
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Mountains4
+rotate: false
+xy: 704, 476
+size: 64, 100
+orig: 64, 100
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Volcano
+rotate: false
+xy: 768, 476
+size: 64, 100
+orig: 64, 100
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Volcano2
+rotate: false
+xy: 832, 476
+size: 64, 100
+orig: 64, 100
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Volcano3
+rotate: false
+xy: 896, 476
+size: 64, 100
+orig: 64, 100
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/Volcano4
+rotate: false
+xy: 960, 476
+size: 64, 100
+orig: 64, 100
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PossiblyTallForest
+rotate: false
+xy: 768, 504
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PossiblyTallForest2
+rotate: false
+xy: 832, 504
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PossiblyTallForest3
+rotate: false
+xy: 896, 504
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PossiblyTallForest4
+rotate: false
+xy: 960, 504
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PossiblyTallJungle
+rotate: false
+xy: 768, 504
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PossiblyTallJungle2
+rotate: false
+xy: 832, 504
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PossiblyTallJungle3
+rotate: false
+xy: 896, 504
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/PossiblyTallJungle4
+rotate: false
+xy: 960, 504
+size: 64, 72
+orig: 64, 72
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/CoastRareFeature1
+rotate: false
+xy: 1536, 448
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/CoastRareFeature2
+rotate: false
+xy: 1600, 448
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/CoastRareFeature3
+rotate: false
+xy: 1664, 448
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/CoastWonderBase
+rotate: false
+xy: 1728, 448
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/CoastWonderBase2
+rotate: false
+xy: 1792, 448
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/CoastWonderBase3
+rotate: false
+xy: 1856, 448
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/OceanRareFeature1
+rotate: false
+xy: 1920, 448
+size: 64, 64
+orig: 64, 64
+offset: 0, 0
+index: -1
+TileSets/HexaMirabilis/Tiles/OceanRareFeature2
+rotate: false
+xy: 1984, 448
 size: 64, 64
 orig: 64, 64
 offset: 0, 0

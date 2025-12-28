@@ -2,12 +2,10 @@
 	"useColorAsBaseTerrain": "false",
 	"fogOfWarColor": {"r":0,"g":0,"b":0,"a":1},
 	"fallbackTileSet": "HexaRealm",
-	"ruleVariants": {
-	
-	//Terrain Features
-	
-	// River pseudo-tile used in Civilopedia display only
-	"Grassland+River": ["Plains","River-BottomLeft","River-Bottom","River-BottomRight"],
+	"ruleVariants": {	
+ 	//Terrain Features
+ 	// River pseudo-tile used in Civilopedia display only
+  	"Grassland+River": ["Plains","River-BottomLeft","River-Bottom","River-BottomRight"],
      //Hills and Highlands
       "Caatinga+Hill": ["CaatingaHill"],
       "Pampa+Hill": ["PampaHill"], 
@@ -80,7 +78,7 @@
       "Savannah+Jungle+Highland": ["SavannahHighland","SavannahJungleHighland"],
   	"Fynbos+Jungle+Highland": ["FynbosHighland","FynbosJungleHighland"],
 	  //Forest and Jungle
- 	"Caatinga+Forest": ["Caatinga","CaatingaForest"],
+  	"Caatinga+Forest": ["Caatinga","CaatingaForest"],
       "Pampa+Forest": ["Pampa","PampaForest"], 
       "Desert+Forest": ["Desert","DesertForest"],      
       "Grassland+Forest": ["Grassland","GrasslandForest"],
@@ -92,7 +90,6 @@
   	"Grassland+Jungle": ["Grassland","GrasslandJungle"],
       "Plains+Jungle": ["Plains","PlainsJungle"],
       "Savannah+Jungle": ["Savannah","SavannahJungle"],
-  	"Fynbos+Jungle": ["Fynbos","FynbosJungle"],
-
+  	"Fynbos+Jungle": ["Fynbos","FynbosJungle"]
 	}
 }

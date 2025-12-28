@@ -1,7 +1,7 @@
 {
 	"useColorAsBaseTerrain": "false",
 	"fogOfWarColor": {"r":0,"g":0,"b":0,"a":1},
-	"fallbackTileSet": "HexaRealm",
+	"fallbackTileSet": HexaRealm,
 	"ruleVariants": {	
  	//Terrain Features
  	// Pseudo-tiles used in Civilopedia display only

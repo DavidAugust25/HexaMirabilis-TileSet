@@ -371,7 +371,7 @@ size: 64, 68
 orig: 64, 68
 offset: 0, 0
 index: -1
-TileSets/HexaMirabilis/Tiles/UnusedFeature01
+TileSets/HexaMirabilis/Tiles/Hill
 rotate: false
 xy: 768, 68
 size: 64, 68
@@ -1693,28 +1693,28 @@ size: 64, 64
 orig: 64, 64
 offset: 0, 0
 index: -1
-TileSets/HexaMirabilis/Tiles/Mountains
+TileSets/HexaMirabilis/Tiles/Mountain
 rotate: false
 xy: 512, 476
 size: 64, 100
 orig: 64, 100
 offset: 0, 0
 index: -1
-TileSets/HexaMirabilis/Tiles/Mountains2
+TileSets/HexaMirabilis/Tiles/Mountain2
 rotate: false
 xy: 576, 476
 size: 64, 100
 orig: 64, 100
 offset: 0, 0
 index: -1
-TileSets/HexaMirabilis/Tiles/Mountains3
+TileSets/HexaMirabilis/Tiles/Mountain3
 rotate: false
 xy: 640, 476
 size: 64, 100
 orig: 64, 100
 offset: 0, 0
 index: -1
-TileSets/HexaMirabilis/Tiles/Mountains4
+TileSets/HexaMirabilis/Tiles/Mountain4
 rotate: false
 xy: 704, 476
 size: 64, 100

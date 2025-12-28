@@ -10,7 +10,7 @@
       "Caatinga+Hill": ["Caatinga","CaatingaHill"],
       "Pampa+Hill": ["Pampa","PampaHill"], 
       "Desert+Hill": ["Desert","DesertHill"],      
-      "Grassland+Hill": ["Grassland","GrasslandHill"],
+      "Grassland+Hill": ["Grassland","Hill","GrasslandHill"],
       "Plains+Hill": ["Plains","PlainsHill"],
       "Tundra+Hill": ["Tundra","TundraHill"],
       "Savannah+Hill": ["Savannah","SavannahHill"],

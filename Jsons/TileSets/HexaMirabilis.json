@@ -4,8 +4,9 @@
 	"fallbackTileSet": "HexaRealm",
 	"ruleVariants": {	
  	//Terrain Features
- 	// River pseudo-tile used in Civilopedia display only
+ 	// Pseudo-tiles used in Civilopedia display only
   	"Grassland+River": ["Plains","River-BottomLeft","River-Bottom","River-BottomRight"],
+	"Hill":["GrasslandHill"],
      //Hills and Highlands
       "Caatinga+Hill": ["CaatingaHill"],
       "Pampa+Hill": ["PampaHill"], 

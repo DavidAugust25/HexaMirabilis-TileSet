@@ -568,28 +568,28 @@ size: 64, 64
 orig: 64, 64
 offset: 0, 0
 index: -1
-TileSets/HexaMirabilis/Tiles/GrasslandHill
+TileSets/HexaMirabilis/Tiles/Grassland+Hill
 rotate: false
 xy: 512, 136
 size: 64, 68
 orig: 64, 68
 offset: 0, 0
 index: -1
-TileSets/HexaMirabilis/Tiles/GrasslandHill2
+TileSets/HexaMirabilis/Tiles/Grassland+Hill2
 rotate: false
 xy: 576, 136
 size: 64, 68
 orig: 64, 68
 offset: 0, 0
 index: -1
-TileSets/HexaMirabilis/Tiles/GrasslandHill3
+TileSets/HexaMirabilis/Tiles/Grassland+Hill3
 rotate: false
 xy: 640, 136
 size: 64, 68
 orig: 64, 68
 offset: 0, 0
 index: -1
-TileSets/HexaMirabilis/Tiles/GrasslandHill4
+TileSets/HexaMirabilis/Tiles/Grassland+Hill4
 rotate: false
 xy: 704, 136
 size: 64, 68

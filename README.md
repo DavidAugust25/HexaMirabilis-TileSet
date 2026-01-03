@@ -1,6 +1,6 @@
 # Hexa-Mirabilis-TileSet
 
-![Preview](https://github.com/DavidAugust25/HexaMirabilis-TileSet/blob/22f3be858edd5d6d592b4b06535add5fb9b1fce2/preview.png)
+![Preview](https://github.com/DavidAugust25/HexaMirabilis-TileSet/blob/7062ede2206cc6ea2d0f1a5c58da283fc2621890/preview.png)
 
  HexaMirabilis is a Civ Six-fied Tileset for [Unciv](https://github.com/yairm210/Unciv).
  

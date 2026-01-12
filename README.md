@@ -8,6 +8,5 @@
  
  This Tileset focuses on variety with plenty of details that will make even the most barren landscapes look Wonderful!
 
- All the 400 tiles are neatly packed into a single game.png.
-
+ All the 400 tiles are neatly packed into a single game.png:
  ![game.png](https://github.com/DavidAugust25/HexaMirabilis-TileSet/blob/98a5e1a16337d479da6c7ff7008bdcf30a9b6847/game.png)

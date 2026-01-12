@@ -2,7 +2,7 @@
 
 ![Preview](https://github.com/DavidAugust25/HexaMirabilis-TileSet/blob/7062ede2206cc6ea2d0f1a5c58da283fc2621890/preview.png)
 
- HexaMirabilis is a, handcrafted, Civ Six style Tileset for [Unciv](https://github.com/yairm210/Unciv).
+ HexaMirabilis is a, handcrafted, Civ 6 style Tileset for [Unciv](https://github.com/yairm210/Unciv).
  
  The tiles were based on HexaRealm tiles (Shape and Size) but Largely inspired by Civ 6's Mods and Features, such as TerraMirabilis and the placeable Wonders present in the game.
  

@@ -1,7 +1,14 @@
 {
 	"useColorAsBaseTerrain": "false",
+	"useSummaryImages": "true",
+	"unexploredTileColor": {"r":1,"g":1,"b":1,"a":1},
 	"fogOfWarColor": {"r":0,"g":0,"b":0,"a":1},
-	"fallbackTileSet": "HexaRealm",
+	"fallbackTileSet": "FantasyHex",
+	"tileScale":1,
+	"tileScales":{
+       "City center":1,
+       "Citadel": 1
+    },
 	"ruleVariants": {	
  	//Terrain Features
  	// River pseudo-tile used in Civilopedia display only

@@ -1,0 +1,8 @@
+{
+  "name": "game",
+  "format": "json-hash",
+  "fixedSize": true,
+  "allowRotation": false,
+  "allowTrim": false,
+  "outDir": "../.."
+}

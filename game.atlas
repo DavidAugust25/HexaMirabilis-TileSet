@@ -5,28 +5,28 @@ format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 //Resource Portraits
-Bonus
+Images/ResourcePortraits/Banana
 rotate: false
 xy: 0, 0
 size: 128, 128
 orig: 128, 128
 offset: 0, 0
 index: -1
-Luxury
+Images/ResourcePortraits/Wine
 rotate: false
 xy: 0, 128
 size: 128, 128
 orig: 128, 128
 offset: 0, 0
 index: -1
-Strategic
+Images/ResourcePortraits/Horse
 rotate: false
 xy: 0, 256
 size: 128, 128
 orig: 128, 128
 offset: 0, 0
 index: -1
-Fallback
+Images/ResourcePortraits/Background
 rotate: false
 xy: 0, 0
 size: 128, 128

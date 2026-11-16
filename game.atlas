@@ -4,28 +4,28 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-Images/ResourcePortraits/Banana
+ResourcePortraits/Bananas
 rotate: false
 xy: 0, 0
 size: 128, 128
 orig: 128, 128
 offset: 0, 0
 index: -1
-Images/ResourcePortraits/Horse
+ResourcePortraits/Horses
 rotate: false
 xy: 0, 128
 size: 128, 128
 orig: 128, 128
 offset: 0, 0
 index: -1
-Images/ResourcePortraits/Wine
+ResourcePortraits/Wine
 rotate: false
 xy: 0, 256
 size: 128, 128
 orig: 128, 128
 offset: 0, 0
 index: -1
-Images/ResourcePortraits/Fallback
+ResourcePortraits/Background
 rotate: false
 xy: 0, 0
 size: 128, 128

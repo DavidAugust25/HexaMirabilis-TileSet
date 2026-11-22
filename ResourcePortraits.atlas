@@ -1,0 +1,34 @@
+
+ResourcePortraits.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ResourcePortraits/Background
+rotate: false
+xy: 2, 2
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+ResourcePortraits/Bananas
+rotate: false
+xy: 132, 2
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+ResourcePortraits/Horses
+rotate: false
+xy: 262, 2
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
+ResourcePortraits/Wine
+rotate: false
+xy: 392, 2
+size: 128, 128
+orig: 128, 128
+offset: 0, 0
+index: -1
